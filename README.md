@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toluwanee
-- 👀 I’m interested in embedded systems, Computer Vision and software programming...
+- 👀 I’m interested in Extended reality, embedded systems, Computer Vision and software programming...
 - 🌱 I’m currently learning Extended Reality
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me github.com/toluwanee
