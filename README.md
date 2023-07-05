@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toluwanee
-- 👀 I’m interested in Extended reality, embedded systems, Artificial Intelligence and software programming...
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Augmented reality, embedded systems, Artificial Intelligence and software programming...
+- 🌱 I’m currently learning Machine Learning and Artificial
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me github.com/toluwanee
 <!---
