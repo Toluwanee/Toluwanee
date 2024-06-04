@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toluwanee
-- 👀 I’m interested in Augmented reality, embedded systems, Artificial Intelligence and software programming...
-- 🌱 I’m currently learning Machine Learning and Artificial
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in Devops, IT Support, SRE and software programming...
+- 🌱 I’m currently learning Devops and IT Basics
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me github.com/toluwanee
 <!---
 Toluwanee/Toluwanee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
